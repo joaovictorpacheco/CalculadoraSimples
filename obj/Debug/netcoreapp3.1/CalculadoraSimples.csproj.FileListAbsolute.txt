@@ -1,0 +1,13 @@
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.exe
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.deps.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.runtimeconfig.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.runtimeconfig.dev.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.dll
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\CalculadoraSimples\bin\Debug\netcoreapp3.1\CalculadoraSimples.pdb
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.csprojAssemblyReference.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.AssemblyInfo.cs
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.dll
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.pdb
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\CalculadoraSimples\obj\Debug\netcoreapp3.1\CalculadoraSimples.genruntimeconfig.cache
